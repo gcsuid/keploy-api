@@ -126,4 +126,3 @@ If you are using PowerShell, `curl` is an alias for `Invoke-WebRequest`. Use one
     Invoke-WebRequest -Uri [http://127.0.0.1:5000/products](http://127.0.0.1:5000/products)
     ```
 
-This README provides a complete guide for anyone (including your future self) to understand, run, and use your project.
