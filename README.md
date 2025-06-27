@@ -101,4 +101,7 @@ To run the tests and generate a code coverage report for the `app.py` file, run:
 ```bash
 python -m pytest --cov=app
 ```
+swagger.json
+
+![alt text](image.png)
 
